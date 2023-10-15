@@ -1,6 +1,7 @@
 # collegeproject
 
-A new Flutter project.
+It is Flutter project.
+Book App for semester Notes
 
 ## Getting Started
 
